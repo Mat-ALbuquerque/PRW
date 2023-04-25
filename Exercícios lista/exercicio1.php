@@ -20,5 +20,5 @@
         $resultado = $num1 * $num2;
      }
 
-     echo "Resultado : $resultado\n";//le
+     echo "Resultado : $resultado\n";
 ?>

@@ -1,6 +1,6 @@
 <?php
     $estado = $_GET['estado'];
-    //NORDESTEe
+    //NORDESTE
     switch ($estado)
     {
         case "Maranhão";
