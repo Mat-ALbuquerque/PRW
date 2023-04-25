@@ -2,7 +2,7 @@
     $quantpequenas = $_GET['quantpequenas'];
     $quantmedio = $_GET['quantmedio'];
     $quantgrande = $_GET['quantgrande'];
-
+//cam
     $pequena = 10;
     $medio = 12;
     $grande = 15;
